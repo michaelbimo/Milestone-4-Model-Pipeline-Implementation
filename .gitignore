@@ -1,0 +1,29 @@
+# Raw private or large data
+data/raw/*.csv
+data/raw/*.csv.gz
+
+# Large intermediate data and embeddings
+data/processed/*.npy
+data/processed/*.joblib
+data/processed/split_*.csv.gz
+
+# Model checkpoints
+models/**
+!models/.gitkeep
+checkpoints/
+results/checkpoint-*/
+
+# Python and notebook state
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets and environments
+.env
+*.env
+.venv/
+venv/
+
+# Operating systems
+.DS_Store
