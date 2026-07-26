@@ -121,15 +121,13 @@ sampling disabled to improve reproducibility.
 
 ## Preliminary results
 
-The pipeline is configured to generate 10 preliminary summaries. Each output records the source
-complaint ID, product, provisional archetype, extracted red flags, risk level, and generated
-summary. After the full Colab run, the exact samples are available in `outputs/samples.txt` and
-`outputs/samples.jsonl`.
+The pipeline successfully generated 10 fraud-intelligence summaries from
+representative CFPB complaints using FLAN-T5-small. The outputs were generally
+concise and preserved the assigned risk level and major red flags.
 
-This is a zero-shot preliminary system unless `models/generator/` contains a fine-tuned checkpoint.
-Expected limitations include omitted details, awkward phrasing, and occasional mismatch between
-the generated wording and rule-based signals. Outputs must therefore be reviewed by a human and
-must not be treated as final fraud determinations.
+Observed limitations included occasional vague archetype descriptions, omitted
+complaint details, and repetitive wording. These outputs are preliminary and
+require human review before being used for fraud analysis.
 
 ## Reproducing outputs
 
