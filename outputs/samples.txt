@@ -1,0 +1,102 @@
+CFPB GENERATIVE FRAUD INTELLIGENCE — PRELIMINARY SAMPLES
+====================================================================
+
+SAMPLE 1
+Complaint ID: 11817563
+Product / Sub-product: Money transfer, virtual currency, or money service / Mobile or digital wallet
+Provisional archetype: money-transfer or payment-app scam
+Red flags: urgent or threatening language; request to transfer money
+Risk: Medium (score 3)
+Generated summary:
+i tried to call redacted times they hung up in mid ring. i tried to unlink my cards from my bank accounts and you can't even click on it continues to blink and clicking on it.
+--------------------------------------------------------------------
+
+SAMPLE 2
+Complaint ID: 13817257
+Product / Sub-product: Money transfer, virtual currency, or money service / Domestic (US) money transfer
+Provisional archetype: debt-collection or government impostor scam
+Red flags: impersonation of a trusted organization
+Risk: Low (score 1)
+Generated summary:
+A redacted redacted , married woman on redacted living in redacted az. i answered the redacted text saying i had a money_amount that urgently had to be paid so i paid it using my bank credit card, which was declined for some reason. i used redacted as well, declined. hours later, bank fraud calls me and agent redacted redacted , agent # called to report that there was fraud
+--------------------------------------------------------------------
+
+SAMPLE 3
+Complaint ID: 7227374
+Product / Sub-product: Money transfer, virtual currency, or money service / Virtual currency
+Provisional archetype: money-transfer or payment-app scam
+Red flags: request to transfer money
+Risk: Medium (score 2)
+Generated summary:
+Reports of fraud in the United States and Canada.
+--------------------------------------------------------------------
+
+SAMPLE 4
+Complaint ID: 14840055
+Product / Sub-product: Money transfer, virtual currency, or money service / International money transfer
+Provisional archetype: money-transfer or payment-app scam
+Red flags: request to transfer money
+Risk: Medium (score 2)
+Generated summary:
+redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted redacted
+--------------------------------------------------------------------
+
+SAMPLE 5
+Complaint ID: 7145537
+Product / Sub-product: Credit reporting, credit repair services, or other personal consumer reports / Credit repair services
+Provisional archetype: identity theft or synthetic identity fraud
+Red flags: impersonation of a trusted organization
+Risk: Medium (score 2)
+Generated summary:
+A fraud analyst says self financial is engaged in shady and unscrupulous business practices.
+--------------------------------------------------------------------
+
+SAMPLE 6
+Complaint ID: 15982261
+Product / Sub-product: Money transfer, virtual currency, or money service / Check cashing service
+Provisional archetype: account takeover or unauthorized transaction
+Red flags: urgent or threatening language; request to transfer money; consumer denies authorizing the transaction
+Risk: High (score 6)
+Generated summary:
+Using a digital wallet, unauthorized debit card transactions were made using my bank debit card through a digital wallet ( redacted redacted).
+--------------------------------------------------------------------
+
+SAMPLE 7
+Complaint ID: 4202344
+Product / Sub-product: Money transfer, virtual currency, or money service / Foreign currency exchange
+Provisional archetype: money-transfer or payment-app scam
+Red flags: request to transfer money
+Risk: Medium (score 2)
+Generated summary:
+Redacted redacted is a scam that scams people with money-transfer or payment-app scams.
+--------------------------------------------------------------------
+
+SAMPLE 8
+Complaint ID: 7571971
+Product / Sub-product: Money transfer, virtual currency, or money service / Money order, traveler's check or cashier's check
+Provisional archetype: account takeover or unauthorized transaction
+Red flags: impersonation of a trusted organization; request to transfer money; romance or relationship manipulation; consumer denies authorizing the transaction
+Risk: High (score 7)
+Generated summary:
+Redacted / redacted /28 is an unauthorized transaction.
+--------------------------------------------------------------------
+
+SAMPLE 9
+Complaint ID: 4703081
+Product / Sub-product: Money transfer, virtual currency, or money service / Debt settlement
+Provisional archetype: other suspected fraud or disputed transaction
+Red flags: request to transfer money
+Risk: Medium (score 2)
+Generated summary:
+A fraud analyst is a fraud analyst who is a fraud analyst.
+--------------------------------------------------------------------
+
+SAMPLE 10
+Complaint ID: 2726110
+Product / Sub-product: Money transfer, virtual currency, or money service / Traveler's check or cashier's check
+Provisional archetype: fake check or overpayment scam
+Red flags: check overpayment or counterfeit check
+Risk: Low (score 1)
+Generated summary:
+i received a cashiers check in the amount of redacted it came special delivery through the mail.
+--------------------------------------------------------------------

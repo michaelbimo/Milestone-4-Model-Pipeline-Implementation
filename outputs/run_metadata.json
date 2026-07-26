@@ -1,13 +1,15 @@
 {
-  "started_at_utc": "2026-07-26T16:24:19.474383+00:00",
-  "finished_at_utc": "2026-07-26T16:24:19.474402+00:00",
+  "started_at_utc": "2026-07-26T18:36:40.224891+00:00",
+  "finished_at_utc": "2026-07-26T18:37:02.000778+00:00",
   "dataset_path": "data/processed/complaints_clean.csv.gz",
   "dataset_rows_loaded": 25576,
   "samples_selected": 10,
   "model_source": "google/flan-t5-small",
-  "device": "not loaded",
-  "prepare_only": true,
+  "device": "cuda",
+  "prepare_only": false,
   "quality_checks": {
-    "status": "prepare-only; model inference was skipped"
+    "non_empty_output_rate": 1.0,
+    "average_summary_words": 21.7,
+    "risk_level_mention_rate": 0.0
   }
 }
